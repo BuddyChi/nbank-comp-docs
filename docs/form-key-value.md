@@ -9,6 +9,7 @@
 
 
 > isNewCom
+
 当isNewCom属性为true时，显示有表头.
 ![avatar](/img/form-key-value/isNewCom.png)
 <br/>
