@@ -11,7 +11,7 @@ form-key-value组件为键值对组件。
 
 > isNewCom
 
-当isNewCom属性为true时，显示有表头.
+当isNewCom属性为true时，显示有表头. 
 ![avatar](/img/form-key-value/isNewCom.png)
 <br/>
 当isNewCom属性为false时，显示无表头.
