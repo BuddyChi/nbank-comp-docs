@@ -4,4 +4,12 @@
 
 | 属性    | 说明 | 类型 |默认值|
 | ------ | ------ | ------ |------ |
-| isNewCom  | 是否带有表头的键值对 | Boolean |false|
+| title  | 标题 | String |''|
+| detail  | 详情 | String |''|
+| expandAll  |  | String |''|
+| expand  |  | String |''|
+
+> title & detail 
+
+![avatar](/img/accordion-list-item/title&detail.png)
+
