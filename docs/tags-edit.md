@@ -10,6 +10,6 @@
 | btnLabel | ------ | ------ |------ |
 
 
-> title & detail 
+> title & detail
 
 ![avatar](/img/accordion-list-item/title&detail.png)
