@@ -1,5 +1,5 @@
 * [Home](/)
-* [sortable-table](sortable-table.md)
-* [action-menu](action-menu.md)
-* [form-key-value](form-key-value.md)
+* [sortable-table](./component/sortable-table.md)
+* [action-menu](./component/action-menu.md)
+* [form-key-value](./component/form-key-value.md)
 * [accordion-list-item](./component/accordion-list-item.md)
