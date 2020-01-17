@@ -2,4 +2,4 @@
 * [sortable-table](sortable-table.md)
 * [action-menu](action-menu.md)
 * [form-key-value](form-key-value.md)
-* [accordion-list-item](accordion-list-item.md)
+* [accordion-list-item](./component/accordion-list-item.md)
