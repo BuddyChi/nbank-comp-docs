@@ -10,3 +10,6 @@
 | showAll | 短文本 | 中等文本 ||
 | isNew | 短文本 | 中等文本 ||
 | inTooltip | 短文本 | 中等文本 ||
+
+{{action-menu classNames='onlyDelete' isBtn=true showAll=true isNew=true model=backup}}
+
